@@ -35,7 +35,7 @@ You must pass those properties along to the base `Component` class constructor u
 The canonical name for the properties is `props`.
 
 ```javascript
-export default class APP extends Component {
+export default class App extends Component {
     constructor(props) {
         super(props);
     }
